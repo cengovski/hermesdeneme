@@ -1,0 +1,68 @@
+[
+  {
+    "action": "usdc_transfer_self-transfer",
+    "tx": "14157f0caf5a496525bb2256f61bee5ece4282d3107197e401287602042374e9",
+    "status": "ok",
+    "time": "2026-05-12 12:48:44"
+  },
+  {
+    "action": "usdc_transfer_burn-transfer",
+    "tx": "4a84c197d13f89c91425175c4b71f41ef7c2678fb6ca64fac2e430649a9e9b02",
+    "status": "ok",
+    "time": "2026-05-12 12:48:47"
+  },
+  {
+    "action": "usdc_transfer_dead-transfer",
+    "tx": "e88ef8ba9352e5f601d2edf2b98bacc1ba059c33810677dc1f68505cb292e285",
+    "status": "ok",
+    "time": "2026-05-12 12:48:49"
+  },
+  {
+    "action": "native_transfer_self-transfer",
+    "tx": "9f9c792ce414c732d6ce088a571f96f6fb99a9c880e59255da63c66b1cbd5177",
+    "status": "ok",
+    "time": "2026-05-12 12:48:52"
+  },
+  {
+    "action": "native_transfer_burn-transfer",
+    "tx": "b56ebe3a0cbffa91a95d696705da9237fd7b7e235777cbc41c89aebe95bbf603",
+    "status": "ok",
+    "time": "2026-05-12 12:48:55"
+  },
+  {
+    "action": "deploy_contract",
+    "tx": "051d2ba6ae7b94a1d1348ed7b690c0a5ca8db1712d1b6fffb5427a2813b43c53",
+    "status": "fail",
+    "time": "2026-05-12 12:48:57"
+  },
+  {
+    "action": "approve_0x0000000000000000000000000000000000000001",
+    "tx": "621f05582d53985a130c7028340a2d6d6cf7879e055fd233654c1b4de105f720",
+    "status": "ok",
+    "time": "2026-05-12 12:49:01"
+  },
+  {
+    "action": "random_transfer_1",
+    "tx": "bface438b7abb42eaa8103cd1aacbe363480a5f7134d278fe1bf8b73d0d44740",
+    "status": "ok",
+    "time": "2026-05-12 12:49:04"
+  },
+  {
+    "action": "random_transfer_2",
+    "tx": "c4e97816b3956b7841cde530e8f977a4cdd495467669e94e605051f51dd5c958",
+    "status": "ok",
+    "time": "2026-05-12 12:49:07"
+  },
+  {
+    "action": "random_transfer_3",
+    "tx": "13b7c810b067f85be75d703ca3a0159dec9c82138709f2ba26eb5ea598c289e3",
+    "status": "ok",
+    "time": "2026-05-12 12:49:11"
+  },
+  {
+    "action": "sign_message",
+    "tx": "a3fe04176560fb1fc66a5f7b8e0774c2ae221a86ffc39752bd9fb31a6ca836e50be2ab0a3d9027426109c0ad22a735c70c7752dcf53cf83262ca760826bec9181c",
+    "status": "ok",
+    "time": "2026-05-12 12:49:13"
+  }
+]
