@@ -10,7 +10,7 @@ This repository contains a simple Flask-based DApp for interacting with the Arc 
 
 ## How to Use (Locally via SSH Tunnel)
 
-1. **Ensure you have SSH access to the VPS** (IP: 107.175.85.233) via your `Baglan.bat` or similar script.
+1. **Ensure you have SSH access to the VPS** (IP: xxxx.xxxx.xxxx.xxx) via your `Baglan.bat` or similar script.
 2. **Start the DApp on the VPS** (if not already running):
    ```bash
    cd /root/arc_dapp
