@@ -109,3 +109,9 @@
 - USDC Balance: 34.478391 USDC (raw: 34478391, decimals: 6)
 - EURC Balance: 40.000000 EURC (raw: 40000000, decimals: 6)
 - Note: USDC delta from last entry: -10.031715
+
+## 2026-05-15 12:00:00 UTC
+- Wallet: `0x5bD6dEfA181aF2b45cA6797b55Ea08fEa0B64681`
+- USDC Balance: 24.318117 USDC (raw: 24318117, decimals: 6)
+- EURC Balance: 40.000000 EURC (raw: 40000000, decimals: 6)
+- Note: USDC delta from last entry: -10.160274
